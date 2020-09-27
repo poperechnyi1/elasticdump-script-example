@@ -1,3 +1,5 @@
+//code was copied from https://github.com/elasticsearch-dump/elasticsearch-dump/blob/master/bin/elasticdump
+
 const argv = require("minimist")(process.argv);
 const _ = require("lodash");
 const path = require("path");
