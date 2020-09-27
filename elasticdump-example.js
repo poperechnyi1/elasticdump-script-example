@@ -7,7 +7,7 @@ const Elasticdump = require(path.join(
   "elasticdump.js"
 ));
 
-//dimple example of request
+//simple example of request
 const necessaryData = JSON.stringify([]);
 const searchBody = `{ \"query\":{ \"terms\":{\"necessaryData\": ${necessaryData}}}}`;
 
