@@ -4,7 +4,7 @@ Simple version of [original script](https://github.com/elasticsearch-dump/elasti
 
 ## How to customize script
 
-Use `defauls` object for customization script
+Use `defaults` object for customization script
 <br />
 Link on options [description](https://github.com/elasticsearch-dump/elasticsearch-dump#options)
 
