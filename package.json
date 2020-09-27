@@ -1,0 +1,27 @@
+{
+  "name": "elasticdump-example",
+  "version": "1.0.0",
+  "description": "Simple version of script for using the elasticdupm console tool like a node.js script",
+  "main": "elasticdump-example.js",
+  "dependencies": {
+    "elasticdump": "^6.33.3",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node elasticdump-example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poperechnyi1/elasticdump-script-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poperechnyi1/elasticdump-script-example/issues"
+  },
+  "homepage": "https://github.com/poperechnyi1/elasticdump-script-example#readme"
+}
