@@ -2,7 +2,7 @@
 
 Simple version of [original script](https://github.com/elasticsearch-dump/elasticsearch-dump/blob/master/bin/elasticdump) for using the elasticsearch-dupm console tool like a node.js script
 
-## Hot to customize script
+## How to customize script
 
 Use `defauls` object for customization script
 Link on options [description](https://github.com/elasticsearch-dump/elasticsearch-dump#options)
